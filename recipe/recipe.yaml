@@ -1,5 +1,5 @@
 context:
-  version: "3.4.2"
+  version: "3.5.0"
 
 package:
   name: riff
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/walles/riff/archive/refs/tags/${{ version }}.tar.gz
-  sha256: 51f41141af4d7b2b60010fc165cf5ff42a79fa50a6996ba6f8771ecc8f9e525a
+  sha256: 6fa7491053abd5fdd1fd247596ea3bdde18309a52470b1c9a9eb6ed84ed8e1ad
 
 build:
   number: 0
